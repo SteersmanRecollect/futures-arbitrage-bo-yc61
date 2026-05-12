@@ -1,4 +1,4 @@
-# 
+# custom perpetual trading bot Module | market-making + leverage-management is the best perpetual trading bot, featuring market-making and leverage-management. Smart, fast, and
 
 
 
